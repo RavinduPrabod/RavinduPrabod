@@ -13,8 +13,8 @@ I’m a passionate **Software Engineer / Developer** with experience in building
 ---
 
 ## 🔗 Connect with Me
-- **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~01fbf1c2998ef6f1a2)  
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/dkr-prabod-hemachandra)  
+- **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/dkrprabod01)  
+- **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/ravindu-prabod-hemachandra-71669b160)  
 
 ---
 
@@ -29,7 +29,6 @@ I’m a passionate **Software Engineer / Developer** with experience in building
 ## 📂 Projects
 Here are some projects I’ve worked on:  
 - **Retail Management System** – End-to-end solution for inventory, sales, and reporting  
-- **PDF Text Extractor Tool** – Windows desktop app to extract and filter PDF text using Xpdf Tools  
 - **GRN & Purchase Upload App** – WinForms app for processing Excel data without OLEDB  
 
 ---
