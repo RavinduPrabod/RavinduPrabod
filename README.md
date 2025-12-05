@@ -13,8 +13,8 @@ I’m a passionate **Software Engineer / Developer** with experience in building
 ---
 
 ## 🔗 Connect with Me
-- **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/dkrprabod01)  
-- **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/ravindu-prabod-hemachandra-71669b160)  
+- **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/dkrprabod01)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ravindu-prabod-hemachandra-71669b160)  
 
 ---
 
